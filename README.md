@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I work on embedded system development for Linux and Android (AOSP).
+
+I'm specialized in system services and kernel drivers.
+ 
+If you would like to learn more, please visit my page https://ipchelnikov.github.io
+
 <!--
 **ipchelnikov/ipchelnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
